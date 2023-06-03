@@ -2,7 +2,8 @@
 
 ## Description
 
-This project is a README.md generator to assist in creating README's for projects. This was built to give a basic outline of a README and fill that outline withh user input. This ensures the README's for project have all necessary components. This project was built with node.js and inquirer
+This project is a README.md generator to assist in creating README's for projects. This was built to give a basic outline of a README and fill that outline with user input. 
+This ensures the README's for project have all necessary components. This project was built with node.js and inquirer.
 
 ## Table of Contents
 
